@@ -1,8 +1,7 @@
 
-// This is new updates
+// This is Hanadi Mardah
 
 Print ("hello world I am Mardah")
-
 
 Print ("Thisi is software documentaiton course ")
 print ("see you in the class")
