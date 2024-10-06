@@ -1,8 +1,6 @@
-// hanadimardah
-//27481789
+// This is new updates
 
-
-Print ("hello world I am kdfjl")
+Print ("hello world I am Hanadi")
 
 Print ("Thisi is software documentaiton course ")
 print ("see you in the class")
