@@ -1,7 +1,8 @@
 
 
 // my change
-// I am chnage locally
+// I will prepare for mid term exam
+
 Print ("hello world I am Mardah")
 
 Print ("Thisi is software documentaiton course ")
